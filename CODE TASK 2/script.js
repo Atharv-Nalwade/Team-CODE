@@ -1,3 +1,4 @@
+// acheiving functionality through faker model is yet to be done
 
 
 function rgbToHex(r, g, b) {
