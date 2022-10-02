@@ -17,3 +17,6 @@ document.getElementById('next_button').addEventListener("click",()=>{
   scroll_img.src="images/"+curr_pos+".jpg";
 
 });
+
+// Alternative approach could be using array or something else
+// give names as img1 instead of 1
